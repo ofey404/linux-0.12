@@ -21,3 +21,12 @@ oslab/hdc.img
 
 src/setup/bochs-2.6.9/*
 src/setup/bochs-2.6.9.tar.gz
+
+# For linux 0.00
+bochsout.txt
+
+linux-0.00/**/boot.o
+linux-0.00/**/boot
+
+linux-0.00/**/head.o
+linux-0.00/**/head
